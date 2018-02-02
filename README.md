@@ -1,78 +1,80 @@
 # Century List
-**# If you had a century to live, what 100 things can you accomplish
+**# If you had a century to live, what 100 things can you accomplish**
 
-> Hi,
-My name is Chase and I first started this exercise when I was a freshman in college.  These items shift with priority over the years.  Once an item is completed it stays on the list, so you can only alternate what is left.  Here is my **Century List**.
+**#> Hi,
+My name is Vivek and I started this exercise at the beginning of 2018. The first time I made this list I realized I had already done a lot of cool stuff, so just for fun I also listed the [things I would have put on here if I hadn't already done them] (../master/done-before-2018.md)
 
-
-### Currently Completed **29** Items
-#### Need Proof for **4** items
-#### Need to add **4** items
+These items shift with priority over the years.  Once an item is completed it stays on the list, so you can only alternate what is left.  Here is my **Century List**.
 
 
-1. **Father a child** [Abigale Doelling](../master/Proof/abigale.jpg) Born 11/4/2015
+### Currently Completed **0** Items
+#### Need Proof for **0** items
+#### Need to add **0** items
 
-2. **Graduate College** [Dec 2009 University of Colorado at Boulder, Marketing](../master/Proof/college.jpg)
 
-3. **Get Married** [May 26th 2012 at Grant Humphreys's Mansion Denver, CO](../master/Proof/kady.jpg)
+1. Graduate College
 
-4. **Drive a Porsche** [Carrera 4 2008](../master/Proof/carrerra.jpg)
+2. Get Married
 
-5. **Become a Certified Beer Judge** [2012 BJCP Certified](../master/Proof/bjcp.jpg)
+3. Take a coffee brewing class
 
-6. **Go To Oktoberfest In Germany** [2014 Oktoberfest](../master/Proof/oktoberfest.jpg)
+4. Go skydiving
 
-7. **Eat: Octopus, Eel, Aligator and Whale** [Ate them, done 2014](../master/Proof/whale.jpg)
+5. Live in another country
 
-8. **Walk in  the Redwood Forest** [California, 2005](../master/Proof/redwoods.jpg)
+6. Go To Oktoberfest In Germany
 
-9. **Brew with a Master Brewer** [2011 w/ Strange Brewing Inc.](../master/Proof/Strange-TimBeer.jpg)
+7. Own a home
 
-10. **Live in another country** [2008 Perugia, Italy](../master/Proof/abigale.jpg)
+8. Fly a plane
 
-11. **Visit Sophia in Istanbul** [Sophia in 2008](../master/Proof/perugia.jpg)
+9. Go heli-skiing/snowboarding
 
-12. **Own a home** [2014 at 1441 Central St. Denver, CO](../master/Proof/home.jpg)
+10. Go to yoga on the rocks
 
-13. **Ride in a helicopter** [2005 in Hawaii](../master/Proof/helicopter.jpg)
+11. Get a tattoo
 
-14. **Learn to juggle** [Aunt & Uncle's House 2005]()
+12. See the Grand Canyon
 
-15. **Learn to shoot a gun** [2009 at Black Water Training 9mm](../master/Proof/gun.jpg)
+13. Have my own dog
 
-16. **Vote in a presidential campaign** [2008 President Barack Obama](../master/Proof/obama.jpg)
+14. Climb a mountain taller than 14,000ft
 
-17. **Take a yoga class** [2013 at Brewvasinya](../master/Proof/yoga.jpg)
+15. Visit every continent other than Antarctica
 
-18. **Get a tatoo** [2008 & 2014, both from Munich Germany]()
+16. Visit all 50 states
 
-19. **Get a piercing** [Left Ear 2009 From Tribal Rites Boulder, CO](../master/Proof/ear.jpg)
+17. Complete a Half Marathon
 
-20. **Go inside the NYSE** [2013 With Rally Software](../master/Proof/nyse.jpg)
+18. Start a Business
 
-21. **See the Grand Canyon** [Arizona 2006](../master/Proof/Canyon.jpg)
+19. Read a 1000 books
 
-22. **Have a dog** [Gavin, 2010](../master/Proof/gavin.jpg)
+20.
 
-23. **Walk in Times Square NYC** [First in 2005, ended up being many times]()
+21.
 
-24. **Stay up all night to watch the sunrise** [Finals Junior Year at CU 2008]()
+22.
 
-25. **Complete a 360 Snowboarding** [Copper Mountain 2008](../master/Proof/360.jpg)
+23.
 
-26. **Complete a Half Marathon** [2015 Colfax 1/2 Marathon Denver](../master/Proof/Colfax-half.jpeg)
+24.
 
-27. **Learn and produce good photography (enough to sell)** [2015 For the Denver Voice Newspaper](../master/Proof/photog.jpg)
+25.
 
-28. **Start a Business** [S Corporation of Craft Boom Corp.  Shut down 2015.](../master/Proof/craftboom.jpg)
+26.
 
-29. **Get an MBA** [Summer 2017 - Emphasis in Business Strategy](../master/Proof/mba.jpeg)
+27.
 
-30. Read a 1000 books [160/1000](../master/books.md)
-31. Climb a Colorado 14ner
-32. Build a self operating engine
-33. Take an acting class
-34. Fly an airplane
+28.
+
+29.
+
+30.  
+31.
+32.
+33.
+34.
 35. Learn a computer language
 36. Drive the Autobahn in Germany
 37. Go camping and sleep outside
