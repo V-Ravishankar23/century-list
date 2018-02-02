@@ -1,8 +1,8 @@
 # Century List
-**# If you had a century to live, what 100 things can you accomplish**
+## If you had a century to live, what 100 things can you accomplish
 
-**# > Hi,
-My name is Vivek and I started this exercise at the beginning of 2018. The first time I made this list I realized I had already done a lot of cool stuff, so just for fun I also listed the [things I would have put on here if I hadn't already done them] (../master/done-before-2018.md)**
+**Hi,
+My name is Vivek and I started this exercise at the beginning of 2018. The first time I made this list I realized I had already done a lot of cool stuff, so just for fun I also listed the** [things I would have put on here if I hadn't already done them] (../master/done-before-2018.md)
 
 These items shift with priority over the years.  Once an item is completed it stays on the list, so you can only alternate what is left.  Here is my **Century List**.
 
