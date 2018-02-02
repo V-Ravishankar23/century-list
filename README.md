@@ -7,7 +7,7 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 ### Currently Completed **0** Items
 #### Need Proof for **0** items
-#### Need to add **0** items
+#### Need to add **65** items
 
 
 1. Graduate College
@@ -40,13 +40,13 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 15. Visit every continent
 
-16. Visit all 50 states
+16. Visit all 50 states + D.C. [29/51](../master/states.md)
 
 17. Complete a Marathon
 
 18. Start a Business
 
-19. Read a 1000 books
+19. Read and/or listen to a 1000 books [1/1000](../master/books.md)
 
 20. Drive the Autobahn in Germany
 
@@ -58,7 +58,7 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 24. Mentor 3 People
 
-25. Experience Weightlessness
+25.
 
 26. Donate enough money to put your name on something
 
@@ -80,9 +80,9 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 35. Perform stand up comedy
 
-36.
+36. Snowboard at Loveland Pass
 
-37.
+37. Visit 30 Countries [10/30](../master/countries.md)
 
 38.
 39.

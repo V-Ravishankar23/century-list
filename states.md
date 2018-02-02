@@ -1,30 +1,29 @@
-2.	California
-3.	South Dakota
-4.	Tennessee
-5.	Texas
-6.	Arizona
-7.	New Mexico
-8.	Massachusetts
-9.	New York
-10.	New Jersey
-11.	Pennsylvania
-12.	Indiana
-13.	Nebraska
-14.	Kansas
-15.	Illinois
-16.	Nevada
-17.	Louisiana
-18.	Florida
-19.	North Carolina
-20.	South Carolina
-21.	Georgia
-22.	Virginia
-23.	District of Columbia
-24.	Hawaii
-25.	Connecticut
-26.	Oregon
-27.	Washington
-28.	Missouri
-29.	Kentucky
-30.	Maryland
-31.	Wyoming
+1. New Mexico
+2. Arizona
+3. Utah
+4. Nevada
+5. Washington
+6. Wyoming
+7. Texas
+8. South Dakota
+9. Nebraska
+10. Iowa
+11. Kansas
+12. Oklahoma
+13. Missouri
+14. Illinois
+15. Indiana
+16. Kentucky
+17. West Virginia
+18. Ohio
+19. Georgia
+20. South Carolina
+21. North Carolina
+22. Virginia
+23. Maryland
+24. Pennsylvania
+25. New York
+26. Connecticut
+27. New Jersey
+28. Massachusetts
+29. Washington D.C.
