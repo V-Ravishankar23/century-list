@@ -58,7 +58,7 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 24. Mentor 3 People
 
-25.
+25. Go to El Cl&#225;sico
 
 26. Donate enough money to put your name on something
 
@@ -88,11 +88,11 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 39. Help bring a new product to market
 
-40.
+40. Have my own website that I made
 
-41.
+41. Go to the Champions League Final
 
-42.
+42. 
 
 43.
 
