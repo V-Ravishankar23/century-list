@@ -92,43 +92,43 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 41. Go to the Champions League Final
 
-42. 
+42. Be someone's manager
 
-43.
+43. Go to a World Cup match
 
-44.
+44. Patent something
 
-45.
+45. Learn to wakeboard
 
-46.
+46. Buy an electric car
 
-47.
+47. Drive a Ferrari
 
-48.
+48. Make a YouTube video that gets over 5000 views
 
-49.
+49. Learn to sail
 
-50.
+50. Write something that gets published
 
-51.
+51. Brew my own beer
 
-52.
+52. Make a piece of furniture
 
-53.
+53. Get an MBA
 
-54.
+54. Do 1000 hours of volunteer work
 
-55.
+55. Build my own computer
 
-56.
+56. Go to the Olympics
 
-57.
+57. Take an overnight train
 
-58.
+58. Vacation on an island
 
-59.
+59. Travel to another country with just a backpack
 
-60.
+60. Participate in a bike race
 
 61.
 
@@ -158,24 +158,24 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 74.
 
-75.   
-76.   
-77.   
-78.   
-79.   
-80.   
-81.   
-82.   
-83.   
-84.   
-85.   
-86.   
-87.  
-88.   
-89.   
-90.   
-91.   
-92.   
+75.
+76.
+77.
+78.
+79.
+80.
+81.
+82.
+83.
+84.
+85.
+86.
+87.
+88.
+89.
+90.
+91.
+92.
 93.
 94.
 95.
