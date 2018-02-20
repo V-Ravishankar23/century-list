@@ -180,13 +180,13 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 85. Go rock climbing outdoors
 
-86.
+86. Finish Free Code Camp
 
-87.
+87. Participate in a hackathon
 
-88.
+88. Fly first class
 
-89.
+89. 
 
 90.
 
