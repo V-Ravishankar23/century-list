@@ -7,7 +7,7 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 ### Currently Completed **0** Items
 #### Need Proof for **0** items
-#### Need to add **65** items
+#### Need to add **15** items
 
 
 1. Graduate College
@@ -130,57 +130,82 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 60. Participate in a bike race
 
-61.
+61. Make a smartphone app
 
-62.
+62. Learn the skills to be a full-stack developer
 
-63.
+63. Make something that helps the environment
 
-64.
+64. Roast my own coffee beans
 
-65.
+65. Go cliff diving
 
-66.
+66. Do a triathlon
 
-67.
+67. Learn to meditate
 
-68.
+68. Swim in a waterfall
 
-69.
+69. Have something named after me
 
-70.
+70. Learn how to do night photography
 
-71.
+71. Go to an NFL game
 
-72.
+72. Father a child
 
-73.
+73. Coach a sport
 
-74.
+74. Get a custom made suit
 
-75.
-76.
-77.
-78.
-79.
-80.
-81.
-82.
-83.
-84.
-85.
+75. Fly in a wing suit
+
+76. Hit a jump on a mountain bike
+
+77. Do a flip on a snowboard
+
+78. Race a car
+
+79. Ski again
+
+80. Celebrate Mardi Gras in New Orleans
+
+81. Go vegetarian for a month
+
+82. Go to a concert at Red Rocks
+
+83. See the northern lights
+
+84. Do a DIY house renovation
+
+85. Go rock climbing outdoors
+
 86.
+
 87.
+
 88.
+
 89.
+
 90.
+
 91.
+
 92.
+
 93.
+
 94.
+
 95.
+
 96.
+
 97.
+
 98.
+
 99.
+
 100.
