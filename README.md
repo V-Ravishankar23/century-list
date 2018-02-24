@@ -7,7 +7,7 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 ### Currently Completed **0** Items
 #### Need Proof for **0** items
-#### Need to add **15** items
+#### Need to add **0** items
 
 
 1. Graduate College
