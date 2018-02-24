@@ -186,26 +186,26 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 88. Fly first class
 
-89. 
+89. Dunk a basketball
 
-90.
+90. Hike one of the Seven Summits
 
-91.
+91. Be a judge for a competition
 
-92.
+92. Give someone an opportunity they've never had before
 
-93.
+93. Swim with sharks
 
-94.
+94. Go backpacking
 
-95.
+95. Play bubble soccer
 
-96.
+96. Hike Huashan Mountain
 
-97.
+97. Go to India as an adult
 
-98.
+98. Go ice climbing
 
-99.
+99. Go on a safari
 
-100.
+100. See Mt. Everest
