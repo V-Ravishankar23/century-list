@@ -12,6 +12,8 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 - [x] [Graduate College](../master/proof/graduated.jpg)
 
+- [x] [Have my own website that I made](http://vivekravishankar.com)
+
 - [ ] Get Married
 
 - [ ] Take a coffee brewing class
@@ -87,8 +89,6 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 - [ ] Snowboard in Japan
 
 - [ ] Help bring a new product to market
-
-- [ ] Have my own website that I made
 
 - [ ] Go to the Champions League Final
 
