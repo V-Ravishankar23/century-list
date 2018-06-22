@@ -1,29 +1,50 @@
-1. New Mexico
-2. Arizona
-3. Utah
-4. Nevada
-5. Washington
-6. Wyoming
-7. Texas
-8. South Dakota
-9. Nebraska
-10. Iowa
-11. Kansas
-12. Oklahoma
-13. Missouri
-14. Illinois
-15. Indiana
-16. Kentucky
-17. West Virginia
-18. Ohio
-19. Georgia
-20. South Carolina
-21. North Carolina
-22. Virginia
-23. Maryland
-24. Pennsylvania
-25. New York
-26. Connecticut
-27. New Jersey
-28. Massachusetts
-29. Washington D.C.
+- [ ] Alabama 
+- [ ] Alaska
+- [x] Arizona
+- [ ] Arkansas
+- [x] California
+- [x] Colorado
+- [x] Connecticut
+- [ ] Delaware
+- [ ] Florida
+- [x] Georgia
+- [ ] Hawaii
+- [ ] Idaho
+- [x] Illinois
+- [x] Indiana
+- [ ] Iowa
+- [x] Kansas
+- [x] Kentucky
+- [x] Louisiana
+- [ ] Maine
+- [x] Maryland
+- [x] Massachusetts
+- [x] Michigan
+- [ ] Minnesota
+- [ ] Mississippi
+- [x] Missouri
+- [ ] Montana
+- [x] Nebraska
+- [x] Nevada
+- [ ] New Hampshire
+- [x] New Jersey
+- [x] New Mexico
+- [x] New York
+- [ ] North Carolina
+- [ ] North Dakota
+- [x] Ohio
+- [x] Oklahoma
+- [ ] Oregon
+- [x] Pennsylvania
+- [ ] Rhode Island
+- [x] South Carolina
+- [x] South Dakota
+- [ ] Tennessee
+- [x] Texas
+- [x] Utah
+- [ ] Vermont
+- [x] Virginia
+- [x] Washington
+- [x] West Virginia
+- [ ] Wisconsin
+- [x] Wyoming
