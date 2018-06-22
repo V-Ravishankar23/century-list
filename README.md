@@ -10,15 +10,15 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 #### Need to add **0** items
 
 
-1. Graduate College
+- [x] Graduate College
 
-2. Get Married
+- [ ] Get Married
 
-3. Take a coffee brewing class
+- [ ] Take a coffee brewing class
 
-4. Go skydiving
+- [ ] Go skydiving
 
-5. Work in another country
+- [ ] Work in another country
 
 6. Go To Oktoberfest In Germany
 
