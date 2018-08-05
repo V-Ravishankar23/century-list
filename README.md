@@ -14,7 +14,7 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 - [x] [Have my own website that I made](http://vivekravishankar.com)
 
-- [ ] Get Married
+- [ ] Get married
 
 - [ ] Take a coffee brewing class
 
@@ -100,7 +100,7 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 - [ ] Learn to wakeboard
 
-- [ ] Buy an electric car
+- [ ] Own an electric car
 
 - [ ] Drive a Ferrari
 
