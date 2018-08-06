@@ -42,13 +42,13 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 - [ ] Visit every continent
 
-- [ ] Visit all 50 states + D.C. [30/51](../master/states.md)
+- [ ] Visit all 50 states + D.C. [31/51](../master/states.md)
 
 - [ ] Complete a Marathon
 
 - [ ] Start a Business
 
-- [ ] Read and/or listen to a 1000 books [1/1000](../master/books.md)
+- [ ] Read and/or listen to a 1000 books [3/1000](../master/books.md)
 
 - [ ] Drive the Autobahn in Germany
 

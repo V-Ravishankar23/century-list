@@ -1,5 +1,5 @@
-- [ ] Alabama 
-- [ ] Alaska
+- [ ] Alabama
+- [x] Alaska
 - [x] Arizona
 - [ ] Arkansas
 - [x] California
