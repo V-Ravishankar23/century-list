@@ -16,13 +16,13 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 - [x] [Make a YouTube video that gets over 5000 views](https://www.youtube.com/watch?v=UMZfBPSKnI8) [(screenshot)](../master/proof/5000-view-video.png)
 
-- [x] Ski/snowboard over 30 days in one year
+- [x] Hike in the Grand Canyon
+
+- [x] Go backpacking
 
 - [x] Learn to lead climb
 
 - [x] Have a photo published
-
-- [x] Help bring a new product to market
 
 - [x] Go to a concert at Red Rocks
 
@@ -34,9 +34,9 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 - [x] Ski again
 
-- [x] Hike in the Grand Canyon
+- [x] Help bring a new product to market
 
-- [x] Go backpacking
+- [x] Ski/snowboard over 30 days in one year
 
 - [ ] Go on a safari
 
