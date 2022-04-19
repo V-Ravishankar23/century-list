@@ -14,6 +14,8 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 - [x] [Make my own website](http://vivekravishankar.com)
 
+- [x] [Make a YouTube video that gets over 5000 views](https://www.youtube.com/watch?v=UMZfBPSKnI8) [(screenshot)](../master/proof/5000-view-video.png)
+
 - [x] Ski/snowboard over 30 days in one year
 
 - [x] Learn to lead climb
@@ -25,8 +27,6 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 - [x] Go to a concert at Red Rocks
 
 - [x] Learn how to do night photography
-
-- [x] Make a YouTube video that gets over 5000 views
 
 - [x] Hike one of the Seven Summits
 
