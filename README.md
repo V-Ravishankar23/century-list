@@ -66,7 +66,7 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 - [ ] Visit every continent
 
-- [ ] Visit all 50 states + D.C. [31/51](../master/states.md)
+- [ ] Visit all 50 states + D.C. [34/50](../master/states.md)
 
 - [ ] Complete a marathon
 
