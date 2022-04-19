@@ -14,23 +14,23 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 - [x] [Make my own website](http://vivekravishankar.com)
 
-- [x] [Go to a concert at Red Rocks](../proof/first-red-rocks-concert.mp4)
+- [x] [Go to a concert at Red Rocks](../master/proof/first-red-rocks-concert.mp4)
 
-- [x] [Make a YouTube video that gets over 5000 views](https://www.youtube.com/watch?v=UMZfBPSKnI8) [(screenshot)](../proof/5000-view-video.png)
+- [x] [Make a YouTube video that gets over 5000 views](https://www.youtube.com/watch?v=UMZfBPSKnI8) [(screenshot)](../master/proof/5000-view-video.png)
 
-- [x] [Hike in the Grand Canyon](../proof/grand-canyon-backpacking.jpg)
+- [x] [Hike in the Grand Canyon](../master/proof/grand-canyon-backpacking.jpg)
 
-- [x] [Go backpacking](../proof/grand-canyon-backpacking.jpg)
+- [x] [Go backpacking](../master/proof/grand-canyon-backpacking.jpg)
 
-- [x] [Learn how to do night photography](../proof/night-photo.jpg)
+- [x] [Learn how to do night photography](../master/proof/night-photo.jpg)
 
 - [x] [Have a photo published](https://dailycoffeenews.com/2021/10/14/odyssey-espresso-begins-its-journey-with-the-argos-manual-lever-machine/)
 
 - [x] Learn to lead climb
 
-- [x] Hike one of the Seven Summits
+- [x] [Hike one of the Seven Summits](../master/proof/kilimanjaro.jpg)
 
-- [x] Go rock climbing outdoors
+- [x] [Go rock climbing outdoors](../master/proof/outdoor-climbing.jpg)
 
 - [x] Ski again
 
