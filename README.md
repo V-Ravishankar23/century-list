@@ -10,23 +10,23 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 #### Need to add **7** items
 
 
-- [x] [Graduate College](../master/proof/graduated.jpg)
+- [x] [Graduate College](../proof/graduated.jpg)
 
 - [x] [Make my own website](http://vivekravishankar.com)
 
-- [x] [Make a YouTube video that gets over 5000 views](https://www.youtube.com/watch?v=UMZfBPSKnI8) [(screenshot)](../master/proof/5000-view-video.png)
+- [x] [Go to a concert at Red Rocks](../proof/first-red-rocks-concert.mp4)
 
-- [x] Hike in the Grand Canyon
+- [x] [Make a YouTube video that gets over 5000 views](https://www.youtube.com/watch?v=UMZfBPSKnI8) [(screenshot)](../proof/5000-view-video.png)
 
-- [x] Go backpacking
+- [x] [Hike in the Grand Canyon](../proof/grand-canyon-backpacking.jpg)
+
+- [x] [Go backpacking](../proof/grand-canyon-backpacking.jpg)
+
+- [x] [Learn how to do night photography](../proof/night-photo.jpg)
+
+- [x] [Have a photo published](https://dailycoffeenews.com/2021/10/14/odyssey-espresso-begins-its-journey-with-the-argos-manual-lever-machine/)
 
 - [x] Learn to lead climb
-
-- [x] Have a photo published
-
-- [x] Go to a concert at Red Rocks
-
-- [x] Learn how to do night photography
 
 - [x] Hike one of the Seven Summits
 
