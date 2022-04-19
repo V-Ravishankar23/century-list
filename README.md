@@ -5,16 +5,40 @@ Hi,
 My name is Vivek and I started this exercise at the beginning of 2018. These items shift with priority over the years. Once an item is completed it stays on the list, so you can only alternate what is left. Here is my **Century List**.
 
 
-### Currently Completed **1** Items
-#### Need Proof for **0** items
-#### Need to add **0** items
+### Currently Completed **14** Items
+#### Need Proof for **12** items
+#### Need to add **7** items
 
 
 - [x] [Graduate College](../master/proof/graduated.jpg)
 
-- [x] [Have my own website that I made](http://vivekravishankar.com)
+- [x] [Make my own website](http://vivekravishankar.com)
 
-- [ ] Get married
+- [x] Ski/snowboard over 30 days in one year
+
+- [x] Learn to lead climb
+
+- [x] Have a photo published
+
+- [x] Help bring a new product to market
+
+- [x] Go to a concert at Red Rocks
+
+- [x] Learn how to do night photography
+
+- [x] Make a YouTube video that gets over 5000 views
+
+- [x] Hike one of the Seven Summits
+
+- [x] Go rock climbing outdoors
+
+- [x] Ski again
+
+- [x] Hike in the Grand Canyon
+
+- [x] Go backpacking
+
+- [ ] Go on a safari
 
 - [ ] Take a coffee brewing class
 
@@ -34,7 +58,7 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 - [ ] Get a tattoo
 
-- [ ] Hike in the Grand Canyon
+- [ ] Get married
 
 - [ ] Have my own dog
 
@@ -44,35 +68,29 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 - [ ] Visit all 50 states + D.C. [31/51](../master/states.md)
 
-- [ ] Complete a Marathon
+- [ ] Complete a marathon
 
-- [ ] Start a Business
+- [ ] Start a business
 
 - [ ] Read and/or listen to a 1000 books [3/1000](../master/books.md)
 
 - [ ] Drive the Autobahn in Germany
 
-- [ ] Go camping and sleep in a hammock
+- [ ] Camp in a hammock
 
-- [ ] Learn to lead climb
-
-- [ ] Have 2 Million Net Worth
-
-- [ ] Mentor 3 People
+- [ ] Be someone's mentor
 
 - [ ] Go to El Cl&#225;sico
 
-- [ ] Donate enough money to put your name on something
+- [ ] Sell a photo/piece of artwork
 
 - [ ] Play a *real* 18 holes
 
-- [ ] Learn to successfully surf a wave
+- [ ] Successfully surf a wave
 
 - [ ] Swim in the Great Barrier Reef
 
-- [ ] Get a motorcycle license
-
-- [ ] Own a rental property
+- [ ] Learn to ride a motorcycle
 
 - [ ] Own a property in the mountains
 
@@ -80,15 +98,11 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 - [ ] Visit the mountains of China
 
-- [ ] Perform stand up comedy
-
-- [ ] Snowboard at Loveland Pass
+- [ ] Backcountry ski or snowboard
 
 - [ ] Visit 30 Countries [10/30](../master/countries.md)
 
-- [ ] Snowboard in Japan
-
-- [ ] Help bring a new product to market
+- [ ] Ski/Snowboard in Japan
 
 - [ ] Go to the Champions League Final
 
@@ -96,15 +110,11 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 - [ ] Go to a World Cup match
 
-- [ ] Patent something
-
-- [ ] Learn to wakeboard
+- [ ] Learn to wakeboard/waterski
 
 - [ ] Own an electric car
 
 - [ ] Drive a Ferrari
-
-- [ ] Make a YouTube video that gets over 5000 views
 
 - [ ] Learn to sail
 
@@ -132,13 +142,11 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 - [ ] Make a smartphone app
 
-- [ ] Learn the skills to be a full-stack developer
-
 - [ ] Make something that helps the environment
 
 - [ ] Roast my own coffee beans
 
-- [ ] Go cliff diving
+- [ ] Go cliff jumping
 
 - [ ] Do a triathlon
 
@@ -146,13 +154,9 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 - [ ] Swim in a waterfall
 
-- [ ] Have something named after me
-
-- [ ] Learn how to do night photography
-
 - [ ] Go to an NFL game
 
-- [ ] Father a child
+- [ ] Be a father
 
 - [ ] Coach a sport
 
@@ -166,46 +170,28 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 - [ ] Race a car
 
-- [ ] Ski again
-
 - [ ] Celebrate Mardi Gras in New Orleans
 
-- [ ] Go vegetarian for a month
-
-- [ ] Go to a concert at Red Rocks
+- [ ] Eat vegetarian for a month
 
 - [ ] See the northern lights
 
 - [ ] Do a DIY house renovation
 
-- [ ] Go rock climbing outdoors
-
-- [ ] Finish Free Code Camp
-
-- [ ] Participate in a hackathon
-
 - [ ] Fly first class
 
 - [ ] Dunk a basketball
 
-- [ ] Hike one of the Seven Summits
-
 - [ ] Be a judge for a competition
 
-- [ ] Give someone an opportunity they've never had before
+- [ ] Pay for someone to go to college
 
 - [ ] Swim with sharks
-
-- [ ] Go backpacking
-
-- [ ] Play bubble soccer
 
 - [ ] Hike Huashan Mountain
 
 - [ ] Go to India as an adult
 
 - [ ] Go ice climbing
-
-- [ ] Go on a safari
 
 - [ ] See Mt. Everest
