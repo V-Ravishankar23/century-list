@@ -30,6 +30,8 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 - [x] [Hike one of the Seven Summits](../master/proof/kilimanjaro.jpg)
 
+- [ ] [Climb a mountain taller than 14,000ft](../master/proof/kilimanjaro.jpg)
+
 - [x] [Go rock climbing outdoors](../master/proof/outdoor-climbing.jpg)
 
 - [x] Ski again
@@ -61,8 +63,6 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 - [ ] Get married
 
 - [ ] Have my own dog
-
-- [ ] Climb a mountain taller than 14,000ft
 
 - [ ] Visit every continent
 
