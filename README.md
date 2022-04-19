@@ -6,7 +6,7 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 
 ### Currently Completed **14** Items
-#### Need Proof for **12** items
+#### Need Proof for **4** items
 #### Need to add **7** items
 
 
