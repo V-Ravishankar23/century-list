@@ -6,7 +6,7 @@
 - [x] Colorado
 - [x] Connecticut
 - [ ] Delaware
-- [ ] Florida
+- [x] Florida
 - [x] Georgia
 - [ ] Hawaii
 - [ ] Idaho
@@ -34,7 +34,7 @@
 - [ ] North Dakota
 - [x] Ohio
 - [x] Oklahoma
-- [ ] Oregon
+- [x] Oregon
 - [x] Pennsylvania
 - [ ] Rhode Island
 - [x] South Carolina
@@ -42,7 +42,7 @@
 - [ ] Tennessee
 - [x] Texas
 - [x] Utah
-- [ ] Vermont
+- [x] Vermont
 - [x] Virginia
 - [x] Washington
 - [x] West Virginia
