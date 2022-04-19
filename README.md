@@ -7,7 +7,7 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 
 ### Currently Completed **14** Items
 #### Need Proof for **4** items
-#### Need to add **7** items
+#### Need to add **6** items
 
 
 - [x] [Graduate College](../proof/graduated.jpg)
@@ -195,3 +195,5 @@ My name is Vivek and I started this exercise at the beginning of 2018. These ite
 - [ ] Go ice climbing
 
 - [ ] See Mt. Everest
+
+- [ ] Speak at a conference
